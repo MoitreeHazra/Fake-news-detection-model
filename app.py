@@ -76,4 +76,5 @@ st.sidebar.markdown(
     2.  *Analyze*: Click the 'Analyze News' button.
     3.  *Get Result*: The model will predict if the news is REAL or FAKE.
     """
+
 )
